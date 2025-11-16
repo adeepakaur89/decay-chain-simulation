@@ -1,6 +1,6 @@
 # Decay Chain Simulation: Mo-99 → Tc-99m
 
-This project simulates a two-step radioactive decay chain (Mo-99 → Tc-99m → stable) using Monte Carlo sampling and compares it with the analytic Bateman solution.
+This project simulates a two-step radioactive decay chain (Mo-99 → Tc-99m → stable) using Monte Carlo sampling and compares it with the analytic solution.
 
 ### Features
 - Monte Carlo decay event sampling
@@ -14,7 +14,7 @@ This project simulates a two-step radioactive decay chain (Mo-99 → Tc-99m → 
 
 ---
 
-🧪 *Run in Jupyter*  
-Just open the notebook and run all cells.
 
-📬 Questions? Message me on LinkedIn.
+
+
+
